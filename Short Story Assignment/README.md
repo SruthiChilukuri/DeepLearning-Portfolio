@@ -1,9 +1,9 @@
-Short Story Assignmnet
+<b>Short Story Assignment</b>
 
-This is the short story assignment of CMPE 258 Deep Lerning.\
-Topic: Deep Learning for Spatio-Temporal Data Mining: A Survey.\
+This is the short story assignment of CMPE 258 Deep Lerning.<br>
+Topic: Deep Learning for Spatio-Temporal Data Mining: A Survey.<br>
 
-Here are the concernced Links:\
+Here are the concernced Links:<br>
 * [Original Survey Paper](https://arxiv.org/abs/1906.04928 "Survey Paper")
 
 * [Medium Article](https://medium.com/@srisruthi.chilukuri/deep-learning-for-spatio-temporal-data-mining-analysis-166eff7152ca "Medium Article")
