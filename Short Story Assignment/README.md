@@ -1,4 +1,4 @@
-<b>Short Story Assignment</b>
+<b><h2>Short Story Assignment</b>
 
 This is the short story assignment of CMPE 258 Deep Lerning.<br>
 Topic: Deep Learning for Spatio-Temporal Data Mining: A Survey.<br>
