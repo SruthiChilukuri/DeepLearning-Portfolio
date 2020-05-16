@@ -1,8 +1,5 @@
 <b><h2>Graded Homework-3</h2></b>
 
-This is the short story assignment of CMPE 258 Deep Lerning.<br>
-Topic: Deep Learning for Spatio-Temporal Data Mining: A Survey.<br>
-
 
 * [TensorBoard visulaization](https://tensorboard.dev/experiment/KbkQ8gTYRMKOmpcwexSqEA/ "Tensorboard visualization")<br>
 
